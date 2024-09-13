@@ -11,7 +11,7 @@ import Notfound from "./pages/Notfound";
 function App() {
   return (
     <>
-      <div>Hello</div>
+      <div>캐스퍼와 떠나는 여행✈</div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/new" element={<New />} />
